@@ -6,9 +6,16 @@
 }
 .black
 {
-	background-color : black;
+	background-color :  #a69d9d;
 }
 /*.white
 {
 	background-color: grey;
 }*/
+.image
+{
+	margin-top: 7px;
+	margin-left: 4px;
+	width: 70px;
+	height: 70px;
+}
